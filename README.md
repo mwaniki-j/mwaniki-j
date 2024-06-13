@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+## Introduction
 **mwaniki-j/mwaniki-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🚍
+## Projects
+- [geomap:](https://youtu.be/fr1Fz-XViIE?list=PLAxJ4-o7ZoPcD-6wZ2xY5bXuu48Scu8kq) Geographic Software Design
+-
 
 
+## Demo
+All about Mass Transit
+![](https://i.gifer.com/embedded/download/QIGI.gif)
