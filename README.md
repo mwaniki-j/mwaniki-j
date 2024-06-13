@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 ## Demo
-
+Check out my [Youtube Channel](https://youtu.be/DqPR4uHrVdc)
 All about Mass Transit
-![](https://i.gifer.com/embedded/download/QIGI.gif)
+
